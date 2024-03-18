@@ -1,1 +1,2 @@
-name=prakasha
+name=kiran
+name=rama
